@@ -6,3 +6,4 @@ Sitemap: https://www.basiq.work/sitemap-index.xml
 # Machine-readable site summary for LLMs / agents (llmstxt.org)
 # https://www.basiq.work/llms.txt
 # https://www.basiq.work/llms-full.txt
+# Release workflow probe: 2026-10-22T12:34:20Z
